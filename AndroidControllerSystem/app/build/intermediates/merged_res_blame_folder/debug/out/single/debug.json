@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_img_no.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/img_no.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_magnet.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/magnet.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/layout_activity_ex3.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/layout/activity_ex3.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/drawable_img.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/drawable/img.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_fan.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/fan.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_img_yes.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/img_yes.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_s.jpg.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/s.jpg"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_air.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/air.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_zhi.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/zhi.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_b.jpg.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/b.jpg"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_img_connect.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/img_connect.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_bill.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/bill.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_smoke.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/smoke.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/layout_activity_ex2.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/layout/activity_ex2.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_jack.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/jack.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_press.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/press.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_control.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/control.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_music.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/music.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_main.jpg.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/main.jpg"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_safes.jpg.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/safes.jpg"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_hum.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/hum.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_right.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/right.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_plant.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/plant.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_light.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/light.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_tmp.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/tmp.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/layout_edit_tcp.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/layout/edit_tcp.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/layout_activity_ex1.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/layout/activity_ex1.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_ir.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/ir.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_people.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/people.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_sofa.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/sofa.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_farmer.jpg.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/farmer.jpg"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/layout_activity_ex4.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/layout/activity_ex4.xml"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_safe.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/safe.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_fire.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/fire.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/mipmap-hdpi_curtain.png.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/mipmap-hdpi/curtain.png"
+    },
+    {
+        "merged": "com.example.androidcontrollersystem.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.androidcontrollersystem.app-main-31:/xml/backup_rules.xml"
+    }
+]
